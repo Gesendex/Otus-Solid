@@ -2,5 +2,5 @@
 
 public interface IGame
 {
-    void Play();
+    void Play(int retryCount);
 }
